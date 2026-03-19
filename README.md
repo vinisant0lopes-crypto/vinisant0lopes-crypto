@@ -4,17 +4,12 @@
 
 ---
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
-## 📊 Estatísticas extras
+## 📊 Estatísticas
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=vinisant0lopes-crypto&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight" />]
+  ![vinisant0lopes-crypto](https://github-readme-stats.vercel.app/api?username=vinisant0lopes-crypto&show_icons=true&theme=radical)
 </p>
 
 ---
