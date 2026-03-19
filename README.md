@@ -15,8 +15,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vinisant0lopes-crypto&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight" />
 </p>
 
 ---
