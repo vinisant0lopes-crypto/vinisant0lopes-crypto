@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou Emanoel Vinicius
 
-🚀 Desenvolvedor | 💻 Tech Lover | 🎮 Gamer
+🚀 Desenvolvedor Aprendiz
 
 ---
 
-## 🧩 Tetris das minhas contribuições
+## 🧩 Estatisticas gerais
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas extras
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=vinisant0lopes-crypto&show_icons=true&theme=tokyonight" />
@@ -23,13 +23,14 @@
 
 ## 🛠️ Tecnologias
 
+![HTML](https://img.shields.io/badge/HTML-E34F26-orange)
+![CSS](https://img.shields.io/badge/CSS-1572B6-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![React Native](https://img.shields.io/badge/React%20Native-0.71-blue)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU-LINK
-- Email: seuemail@email.com
+- Email: vinisant0lopes@gmail.com
