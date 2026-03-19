@@ -2,15 +2,13 @@
 
 🚀 Desenvolvedor Aprendiz
 
----
-
 ## 📊 Estatísticas
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=vinisant0lopes-crypto&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight" />]
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisant0lopes-crypto&layout=compact&hide=html&theme=tokyonight"/>]
-
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisant0lopes-crypto&layout=compact&hide=html&theme=tokyonight"/>
+</p>
 ---
 
 ## 🛠️ Badges
