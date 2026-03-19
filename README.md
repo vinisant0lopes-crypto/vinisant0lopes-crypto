@@ -4,12 +4,10 @@
 
 ---
 
-
-
-## 🧩 Contributions
+## 🧩 Tetris das minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinisant0lopes-cypto/vinisant0lopes-cypto/output/github-contribution-grid-snake.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
