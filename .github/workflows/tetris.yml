@@ -1,4 +1,4 @@
-name: Generate Tetris
+name: Generate Tetris Animation
 
 on:
   schedule:
@@ -7,9 +7,21 @@ on:
 
 jobs:
   build:
+    name: Generate 3D Contribution Graph
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "generated 3D graph"
+          git push
