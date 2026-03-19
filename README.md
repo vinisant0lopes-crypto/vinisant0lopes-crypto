@@ -1,10 +1,8 @@
-# 👋 Olá, eu sou Emanoel Vinicius
+Emanoel Vinicius
 
 🚀 Desenvolvedor Aprendiz
 
 ---
-
-## 🧩 Gráfico
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
