@@ -9,7 +9,6 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisant0lopes-crypto&theme=tokyonight"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisant0lopes-crypto&layout=compact&hide=html&theme=tokyonight"/>
 </p>
----
 
 ## 🛠️ Badges
 
@@ -21,7 +20,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-
 
 ---
 
