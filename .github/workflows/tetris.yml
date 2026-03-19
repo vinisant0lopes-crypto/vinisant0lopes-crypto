@@ -22,7 +22,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          user_name: vinisant0lopes-crypto
+          USERNAME: vinisant0lopes-crypto
 
       - name: Commit files
         run: |
